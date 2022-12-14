@@ -1,0 +1,1 @@
+# Mode-Trunk-Menggunakan-IP-Static-dan-DHCP-dan-Wifi-Ppoe
